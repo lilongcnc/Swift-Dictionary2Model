@@ -1,0 +1,1 @@
+# Swift-Dictionary2Model
