@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  0228-OAuth
+//  Swift_Dictionary2Model
 //
-//  Created by 李龙 on 15/2/28.
+//  Created by 李龙 on 15/3/5.
 //  Copyright (c) 2015年 Lauren. All rights reserved.
 //
 
